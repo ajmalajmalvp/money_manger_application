@@ -24,7 +24,7 @@
 - Url launcer
  
 **Screen shots**
-  ![WhatsApp Image 2022-11-30 at 15 49 05](https://user-images.githubusercontent.com/109466213/204770924-9a9bf91c-c1f3-4f2c-9507-22056a567b03.jpg)
+ ![WhatsApp Image 2022-11-30 at 15 49 05](https://user-images.githubusercontent.com/109466213/204770924-9a9bf91c-c1f3-4f2c-9507-22056a567b03.jpg)
   ![WhatsApp Image 2022-11-30 at 15 sdfdsf49 06](https://user-images.githubusercontent.com/109466213/204770933-a9dd18e6-884b-471a-994a-3584c00bf82c.jpg)
   ![WhatsApp Image 2022-11-30 at dsfdsf15 49 07](https://user-images.githubusercontent.com/109466213/204770937-56329398-5948-4e9a-85ef-ee6f9b616b3c.jpg)
   ![WhatsApp Image 2022-11-30 sdf15 49 07](https://user-images.githubusercontent.com/109466213/204770942-70f553bc-6a49-4a91-961d-48cd009c99cb.jpg)
