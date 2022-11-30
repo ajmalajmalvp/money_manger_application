@@ -1,16 +1,26 @@
-# flutter_money_mangement_application
+### Money Manager
 
-A new Flutter project.
+**Features**
 
-## Getting Started
+- passcode available
+- Add Expense
+- You can add and see your expenses in here
+  Tags
+- You can add and see your tags in here. Also you can give short name to a tag so you do not need to type the whole name
+   Graph
+- You can see your expense amounts daily, weekly and monthly based on the tags
+   Limit
+- You can configure daily, weekly and monthly limits and get feedback if you exceed the limit
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Packages**
+- Hive
+- Hive flutter
+- Get
+- Shared preference
+- Local auth
+- Build runner
+- Image picker
+- Passcode screen
+- Url launcer
+ 
+**Screen shots**
